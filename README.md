@@ -19,3 +19,4 @@ Approach:
 Note:
 I have developed the landing page.
 Links on click get redirected to the original website sections.
+Replica of Starbucks website as on 23/10/2022
