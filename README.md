@@ -1,5 +1,5 @@
 # totalitycorp-frontend-challenge
-This project is a clone of the Starcbucks homepage page.
+This project is a clone of the Starbucks homepage page.
 
 Features:
 |Website contains a footer and a navigation bar.
